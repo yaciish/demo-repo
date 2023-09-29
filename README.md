@@ -1,11 +1,4 @@
-# Demo
-
-Some description!!
+# Demo repo description
 
 
-## subheaher
-
-some more description!!!!
-
-
-More more moreeee descriptionnn!
+This readme file represents my learning process of Git!
